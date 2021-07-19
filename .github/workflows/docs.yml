@@ -13,7 +13,6 @@ on:
 jobs:
   deploy-docs:
     name: Build and Deploy
-    on: [push]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
