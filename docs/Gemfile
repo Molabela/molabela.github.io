@@ -1,0 +1,17 @@
+source "https://rubygems.org"
+gemspec
+
+#gem 'rake', '12.3.3'
+#gem 'kramdown-parser-gfm'
+gem 'httplog'
+gem "git", "~> 1.8"
+
+gem "uuid", "~> 2.3"
+group :jekyll_plugins do
+# gem "jekyll-difasia", '0.1.3', :path => '../data-processing/ruby/jekyll-difasia'
+# gem "jekyll-tabs"
+ gem "jekyll-theme-hacker"
+end
+
+gem "colorize", "~> 0.8.1"
+
