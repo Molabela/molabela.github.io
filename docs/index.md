@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+---
+Molabela
+---
+<form accept-charset="UTF-8" action="https://molabela.korsimoro.net/" method="POST">
+  <input type="password" name="key" placeholder="Identifier">
+  <input type="hidden" name="utf8" value="<<FROM SCRIPT ABOVE>>">
+  <button type="submit">Engage</button>
+</form>
 
-You can use the [editor on GitHub](https://github.com/Molabela/molabela.github.io/edit/ewelton-patch-1/docs/index.md) to maintain and preview the content for your website in Markdown files.
+If you do not already have an identity established, feel free to say hello
+right now.  Remember, this is like approaching a stranger at a public park
+and saying hello.  Maybe you'll say "Excuse me" or "good hello" or
+"Hi, I'm charley's friend, are we meeting here?" - it is kinda up to you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Molabela/molabela.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

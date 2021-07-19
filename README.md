@@ -1,3 +1,3 @@
 # molabela.github.io
 
-* [Docs](./docs/README.md)
+* [Docs](./docs/index.md)
